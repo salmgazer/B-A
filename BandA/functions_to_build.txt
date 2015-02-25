@@ -1,0 +1,19 @@
+forgotten password (update password)
+
+
+email(); try first sign in
+
+auto_generate(user_id)
+
+verification (when user signs up)
+
+STOP sessions from asking retrying
+
+push code to github
+
+sign in as a guest;
+
+backup
+
+
+
